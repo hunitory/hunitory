@@ -1,5 +1,6 @@
 <div style="padding : 10px">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=20232A&height=100&section=header&text=Hi, there! I'm JeeHun&fontSize=20&fontColor=58A6FF" width="100%">
+</div>
 
 <div align=center><h1>📚 Tech Stack 📚</h1></div>
 <div align=center>
@@ -19,7 +20,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/flutter-%2351BFF0?style=for-the-badge&logo=flutter&logoColor=%23035596">
 <img alt="Static Badge" src="https://img.shields.io/badge/vue.js-%23405062?style=for-the-badge&logo=vue.js&logoColor=%233FB27F">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/mysql-%2342759C?style=for-the-badge&logo=mysql&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/Django-%230C4931?style=for-the-badge&logo=Django&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/java-%23026F91?style=for-the-badge&logo=java&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF">
@@ -36,9 +36,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/jira-%230052CC?style=for-the-badge&logo=jira&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23FFFFFF">
-
-
-
 
 </div>
 
