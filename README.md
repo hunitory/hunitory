@@ -51,13 +51,3 @@
 </div>
 
 </div>
-
-react-query
-
-recoil
-
-dart
-
-flutter
-
-emotion
