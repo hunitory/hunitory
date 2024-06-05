@@ -1,6 +1,6 @@
-
+<div>
 <img src="https://capsule-render.vercel.app/api?type=soft&color=20232A&height=100&section=header&text=Hi, there! I'm JeeHun&fontSize=20&fontColor=58A6FF" width="100%">
-
+</div>
 
 <div align=center><h1>📚 Tech Stack 📚</h1></div>
 <div align=center>
