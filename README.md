@@ -6,8 +6,8 @@
 
 <div align=center>
 
-<p style="font-size: 20px;">:rocket: Front-End :rocket:</p>
-<div>
+<p style="font-size: 30px;">:rocket: Front-End :rocket:</p>
+<div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/React-%23212121?style=for-the-badge&logo=react&logoColor=%2379D8F7">
 <img alt="Static Badge" src="https://img.shields.io/badge/react%20query-%23EF4550?style=for-the-badge&logo=react%20query&logoColor=%23FFFFFF">
@@ -23,26 +23,34 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23FFFFFF">
 </div>
 
-<p style="font-size: 20px;">:computer: Back-End :computer:</p>
+<p style="font-size: 30px;">:computer: Back-End :computer:</p>
+<div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/Django-%230C4931?style=for-the-badge&logo=Django&logoColor=%23FFFFFF">
+</div>
 
-<p style="font-size: 20px;">:iphone: Mobile :iphone:</p>
+<p style="font-size: 30px;">:iphone: Mobile :iphone:</p>
+<div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/flutter-%2351BFF0?style=for-the-badge&logo=flutter&logoColor=%23035596">
+</div>
 
-<p style="font-size: 20px;">:earth_africa: Language :earth_africa:</p>
+<p style="font-size: 30px;">:earth_africa: Language :earth_africa:</p>
+<div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/dart-%232AB1ED?style=for-the-badge&logo=dart&logoColor=%23035596">
 <img alt="Static Badge" src="https://img.shields.io/badge/java-%23026F91?style=for-the-badge&logo=java&logoColor=%23FFFFFF">
+</div>
 
-<p style="font-size: 20px;">:bar_chart: Data Tools :bar_chart:</p>
+<p style="font-size: 30px;">:bar_chart: Data Tools :bar_chart:</p>
+<div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/matplotlib-%2311557C?style=for-the-badge&logo=matplotlib&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23FFFFFF">
+</div>
 
-<p style="font-size: 20px;">:hammer_and_wrench: Cowork Tools :hammer_and_wrench:</p>
-<div>
+<p style="font-size: 30px;">:hammer_and_wrench: Cowork Tools :hammer_and_wrench:</p>
+<div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/mattermost-%23274077?style=for-the-badge&logo=mattermost&logoColor=%23FFFFFF">
 <img alt="Static Badge" src="https://img.shields.io/badge/figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23FFFFFF">
