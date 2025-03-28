@@ -41,14 +41,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/java-%23026F91?style=for-the-badge&logo=java&logoColor=%23FFFFFF">
 </div>
 
-<p style="font-size: 30px;">:bar_chart: Data Tools :bar_chart:</p>
-<div style="padding: 20px 0px">
-<img alt="Static Badge" src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/matplotlib-%2311557C?style=for-the-badge&logo=matplotlib&logoColor=%23FFFFFF">
-<img alt="Static Badge" src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=jupyter&logoColor=%23FFFFFF">
-</div>
-
 <p style="font-size: 30px;">:hammer_and_wrench: Cowork Tools :hammer_and_wrench:</p>
 <div style="padding: 20px 0px">
 <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF">
